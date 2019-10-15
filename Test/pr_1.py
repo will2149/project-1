@@ -3,7 +3,9 @@ class Demo:
 
 
 def main():
-    print('Hello')
+    A = 45
+    B = 30
+    print(A+B)
 
 
 if __name__ == '__main__':
